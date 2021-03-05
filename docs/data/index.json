@@ -1,66 +1,60 @@
 {
-   "title":"Doppelganger Cartoon",
-   "team":[
-      {
-         "name":"De Silva K.G.P.M.",
-         "email":"e15065@eng.pdn.ac.lk",
-         "eNumber":"E/15/065",
-         "github_profile":"https://github.com/PrasadM96",
-         "linkedin_profile":"linkedin.com/in/prasadm96",
-          "researchgate_profile":"#"
-      },
-      {
-         "name":"Dileka J.H.S.",
-         "email":"e15076@eng.pdn.ac.lk",
-         "eNumber":"E/15/076",
-         "github_profile":"#",
-         "linkedin_profile":"#",
-         "researchgate_profile":"#"
-      },
-      {
-         "name":"Maliththa K.H.H.",
-         "email":"e15220@eng.pdn.ac.lk",
-         "eNumber":"E/15/220",
-         "github_profile":"#",
-         "linkedin_profile":"#",
-         "researchgate_profile":"#"
-      }
-   ],
-   "supervisors":[
-      {
-         "name":"Dr. Asitha Bandaranayke",
-         "email":"asithab@pdn.ac.lk",
-         "linkedin_profile":"",
-         "researchgate_profile":""
-      },
-        {
-         "name":"Mr. Sampath Deegalla",
-         "email":"dsdeegalla@pdn.ac.lk",
-         "linkedin_profile":"",
-         "researchgate_profile":""
-      },
-       {
-         "name":"Mr. Ishan Gammampila",
-         "email":"email@eng.pdn.ac.lk",
-         "linkedin_profile":"",
-         "researchgate_profile":""
-      },
-   ],
-   "publications":[
-      {
-         "title":"Paper Title",
-         "journal":"Journal or Conference Name",
-         "description":"Sample Description",
-         "url":"#"
-      }
-   ],
-   "media":[
-      {
-         "type":"youtube",
-         "url":"#"
-      }
-   ],
-   "tags":[
-      "Final Year Projects"
-   ]
+	"title": "Doppelganger Cartoon",
+	"team": [{
+			"name": "De Silva K.G.P.M.",
+			"email": "e15065@eng.pdn.ac.lk",
+			"eNumber": "E/15/065",
+			"github_profile": "https://github.com/PrasadM96",
+			"linkedin_profile": "linkedin.com/in/prasadm96",
+			"researchgate_profile": "#"
+		},
+		{
+			"name": "Dileka J.H.S.",
+			"email": "e15076@eng.pdn.ac.lk",
+			"eNumber": "E/15/076",
+			"github_profile": "#",
+			"linkedin_profile": "#",
+			"researchgate_profile": "#"
+		},
+		{
+			"name": "Maliththa K.H.H.",
+			"email": "e15220@eng.pdn.ac.lk",
+			"eNumber": "E/15/220",
+			"github_profile": "#",
+			"linkedin_profile": "#",
+			"researchgate_profile": "#"
+		}
+	],
+	"supervisors": [{
+			"name": "Dr. Asitha Bandaranayke",
+			"email": "asithab@pdn.ac.lk",
+			"linkedin_profile": "",
+			"researchgate_profile": ""
+		},
+		{
+			"name": "Mr. Sampath Deegalla",
+			"email": "dsdeegalla@pdn.ac.lk",
+			"linkedin_profile": "",
+			"researchgate_profile": ""
+		},
+		{
+			"name": "Mr. Ishan Gammampila",
+			"email": "email@eng.pdn.ac.lk",
+			"linkedin_profile": "",
+			"researchgate_profile": ""
+		}
+	],
+	"publications": [{
+		"title": "Paper Title",
+		"journal": "Journal or Conference Name",
+		"description": "Sample Description",
+		"url": "#"
+	}],
+	"media": [{
+		"type": "youtube",
+		"url": "#"
+	}],
+	"tags": [
+		"Final Year Projects"
+	]
 }
