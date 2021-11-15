@@ -375,8 +375,6 @@ relaxation and fun for their minds. So we hope this research will be helpful for
 2. [Semester 7 slides](https://github.com/cepdnaclk/e15-4yp-Doppelganger-Cartoon/blob/main/docs/Publications/CO%20421%20Final%20Presentation%20.pptx)
 3. [Semester 8 report](https://drive.google.com/drive/u/2/folders/1Dla8D2qBbewU4_VNNaYW0Og9luAq-1RQ)
 4. [Semester 8 slides](https://github.com/cepdnaclk/e15-4yp-Doppelganger-Cartoon/blob/main/docs/Publications/CO%20425%20-final%20presentation.pptx)
-5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./).
-
 
 ## Links
 
